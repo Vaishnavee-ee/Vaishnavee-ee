@@ -1,13 +1,13 @@
 <!-- Header Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Utsav%20Raj%20Pratik&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=200&section=header&text=Vaishnavee%20Rana&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">AI & ML Explorer | Data Science Enthusiast | Web Developer</h2>
+<h2 align="center">AI/ML Enthusiast 🚀</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+in+AI+%26+ML;Machine+Learning+Explorer;Data+Science+Enthusiast;Backend+Developer;Building+AI+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer;Data+Science+Enthusiast;Backend+Learner;Building+Smart+Projects"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 • Machine Learning
 • Open Source
 
-⚡ I love building **real-world AI projects**
+⚡ Love building **real-world AI projects**
 
 ---
 
@@ -36,16 +36,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/">
+<a href="https://www.linkedin.com/in/vaishnavee-rana-760419299/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:utsavrajpratik@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/Utsavrajpratik/">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
 
 </p>
@@ -96,19 +88,19 @@
 
 # 🚀 Featured Projects
 
-### 🤖 CodeMate
+### 🧠 NLP Rental Contract Summarizer
 
-AI-powered coding assistant helping developers generate and understand code efficiently.
+An NLP-based system that summarizes rental contracts and extracts key information.
 
-Tech: Python • AI/ML • Backend
+Tech: Python • NLP • Machine Learning
 
 ---
 
-### 🧠 NLP Rental Contract Summarizer
+### 🤖 AI/ML Projects
 
-NLP system that summarizes rental contracts and extracts key information.
+Collection of machine learning and AI-based projects.
 
-Tech: Python • NLP • Machine Learning
+Tech: Python • Machine Learning • Data Science
 
 ---
 
@@ -116,9 +108,9 @@ Tech: Python • NLP • Machine Learning
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UtsavRaj1111&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishanvee-ee&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavRaj1111&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishanvee-ee&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -127,7 +119,7 @@ Tech: Python • NLP • Machine Learning
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavRaj1111&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishanvee-ee&theme=tokyonight"/>
 </p>
 
 ---
@@ -135,7 +127,7 @@ Tech: Python • NLP • Machine Learning
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UtsavRaj1111&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishanvee-ee&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -143,7 +135,7 @@ Tech: Python • NLP • Machine Learning
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavRaj1111&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishanvee-ee&theme=tokyo-night"/>
 </p>
 
 ---
@@ -151,7 +143,7 @@ Tech: Python • NLP • Machine Learning
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Vaishanvee-ee/Vaishanvee-ee/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -160,7 +152,7 @@ Tech: Python • NLP • Machine Learning
 
 <!--START_SECTION:waka-->
 
-```text
+```text id="9s2c6o"
 Python        █████████████░░░░░   60%
 JavaScript    ███████░░░░░░░░░░   25%
 HTML/CSS      ████░░░░░░░░░░░░░   10%
@@ -182,9 +174,9 @@ Other         ██░░░░░░░░░░░░░░░   5%
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=UtsavRaj1111&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Vaishanvee-ee&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-⭐ **From Vaishnavee Rana**
+⭐ From **Vaishnavee Rana**
