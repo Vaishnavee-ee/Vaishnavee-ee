@@ -102,15 +102,7 @@ Tech: Python • Machine Learning • Data Science
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishnavee-ee&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavee-ee&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
 
 
 ---
@@ -123,11 +115,7 @@ Tech: Python • Machine Learning • Data Science
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavee-ee&theme=onestar&no-frame=true&margin-w=10"/>
-</p>
 
 
 ---
