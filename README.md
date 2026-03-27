@@ -35,11 +35,9 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/vaishnavee-rana-760419299/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
 </p>
 
 ---
@@ -107,11 +105,8 @@ Tech: Python • Machine Learning • Data Science
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishanvee-ee&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishanvee-ee&layout=compact&theme=tokyonight"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishnavee-ee&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavee-ee&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -119,7 +114,7 @@ Tech: Python • Machine Learning • Data Science
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishanvee-ee&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavee-ee&theme=tokyonight"/>
 </p>
 
 ---
@@ -127,7 +122,7 @@ Tech: Python • Machine Learning • Data Science
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishanvee-ee&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavee-ee&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -135,7 +130,7 @@ Tech: Python • Machine Learning • Data Science
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishanvee-ee&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavee-ee&theme=tokyo-night"/>
 </p>
 
 ---
@@ -143,7 +138,7 @@ Tech: Python • Machine Learning • Data Science
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vaishanvee-ee/Vaishanvee-ee/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Vaishnavee-ee/Vaishnavee-ee/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -152,7 +147,7 @@ Tech: Python • Machine Learning • Data Science
 
 <!--START_SECTION:waka-->
 
-```text id="9s2c6o"
+```text
 Python        █████████████░░░░░   60%
 JavaScript    ███████░░░░░░░░░░   25%
 HTML/CSS      ████░░░░░░░░░░░░░   10%
@@ -174,9 +169,9 @@ Other         ██░░░░░░░░░░░░░░░   5%
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vaishanvee-ee&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Vaishnavee-ee&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-⭐ From **Vaishnavee Rana**
+⭐ **From Vaishnavee Rana**
